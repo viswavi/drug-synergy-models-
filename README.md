@@ -1,7 +1,11 @@
-# drug-synergy-models
+# drug-synergy-models-
+Code to accompany a new dataset for extracting information about the efficacy of drug combinations from biomedical text.
+
+<img width="776" alt="Screen Shot 2021-11-15 at 2 23 19 AM" src="https://user-images.githubusercontent.com/2577384/141739083-4fec1b00-fac1-4627-a48a-29b768adee2a.png">
+
 
 ### Data
-Consumes drug synergy dataset, in jsonlines format.
+Data can be found in `data/final_train_set.jsonl` and `data/final_test_set.jsonl`.
 
 ### Usage
 To run with default settings, you can simply run `python train.py`.
